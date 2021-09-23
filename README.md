@@ -5,22 +5,22 @@
 **1. BgChanger**
 <br>
 <p align="center">
-  <img width="460"  src="./images/bgChanger1.png">
+  <img width="460"  src="./Images/bgChanger1.png">
 </p>
 <br>
 <p align="center">
-  <img width="460"  src="./images/bgChanger1.png">
+  <img width="460"  src="./Images/bgChanger1.png">
 </p>
 
 <br>
 **2. DiceRoller**
 <br>
 <p align="center">
-  <img width="460"  src="./images/diceRoller1.png">
+  <img width="460"  src="./Images/diceRoller1.png">
 </p>
 <br>
 <p align="center">
-  <img width="460"  src="./images/diceRoller1.png">
+  <img width="460"  src="./Images/diceRoller1.png">
 </p>
 
 
@@ -28,10 +28,10 @@
 **3. Spanish Number**
 <br>
 <p align="center">
-  <img width="460"  src="./images/spanishNumber1.png">
+  <img width="460"  src="./Images/spanishNumber1.png">
 </p>
 <br>
 <p align="center">
-  <img width="460"  src="./images/spanishNumber2.png">
+  <img width="460"  src="./Images/spanishNumber2.png">
 </p>
 <br>
