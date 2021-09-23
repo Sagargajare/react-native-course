@@ -10,7 +10,7 @@
 </p>
 <br>
 <p align="center">
-  <img width="460"  src="./Images/bgChanger1.png">
+  <img width="460"  src="./Images/bgChanger2.png">
 </p>
 
 <br>
@@ -23,7 +23,7 @@
 </p>
 <br>
 <p align="center">
-  <img width="460"  src="./Images/diceRoller1.png">
+  <img width="460"  src="./Images/diceRoller2.png">
 </p>
 
 
